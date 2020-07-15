@@ -26,7 +26,7 @@ create table Response(
 
 insert into thread values(4,4,'  ','20-01-01');
 
-aaaa
+aaaaa
 
 ��莖��
 ���O���ɋ�
